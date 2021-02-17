@@ -1,0 +1,124 @@
+body {
+    background: #d6ffbe url(imagens/frutas3.png);
+    font:22px "Lucida Grande", "Lucida Sans unicode", Arial, sans-serif;
+}
+
+#container{
+    width: :1080px;
+    margin: 0 auto;
+}
+header{
+    padding: 15px 0;
+    height: 55px;
+}
+
+#conteudo{
+    width: 200px;
+    float: left;
+    background:#ff5638
+}
+#logo{
+    width: 1000px;
+    font:100px;
+}
+
+.foto-caju{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-acerola{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-abacaxi{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-goiaba{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-kiwi{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-beterraba{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-tomate{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-quiabo{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-chuchu{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-cenoura{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-acelga{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-salsa{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black; 
+}
+.foto-espinafre{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black; 
+}
+.foto-coentro{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-manjericao{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-cara{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-batatadoce{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-batatayacon{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-macaxeira{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
+.foto-nabo{
+    border-radius: 100%;
+    max-width: 100px;
+    border: 1px solid black;
+}
